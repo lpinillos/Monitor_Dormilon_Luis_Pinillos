@@ -1,2 +1,4 @@
 # Monitor_Dormilon_Luis_Pinillos
- Tarea de Monitor Dormilon de la Materia de Sistemas Operativos
+ Tarea "Monitor Dormilon"
+ Materia: Sistemas Operativos
+ Elaborado por: Luis Pinillos
